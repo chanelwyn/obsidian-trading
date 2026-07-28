@@ -6,7 +6,7 @@ version: 1.0
 phase: Phase-1
 tags: [standards, callouts]
 ---
-# Callout Style Guide
+# Callout Style Guidefffff
 
 ## Purpose
 Defines the approved Obsidian callouts for the TradingOS. Callouts should highlight important information, not decorate documents.
