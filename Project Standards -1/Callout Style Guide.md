@@ -6,7 +6,7 @@ version: 1.0
 phase: Phase-1
 tags: [standards, callouts]
 ---
-# Callout Style Guidefffff
+# Callout Style Guide test commit n push
 
 ## Purpose
 Defines the approved Obsidian callouts for the TradingOS. Callouts should highlight important information, not decorate documents.
