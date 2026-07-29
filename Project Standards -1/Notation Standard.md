@@ -6,26 +6,20 @@ version: 1.0
 phase: Phase-1
 tags: [standards, notation]
 ---
-
 # Notation Standard
-
 ## Purpose
 Defines the standard notation, symbols and abbreviations used throughout the TradingOS. Every document should maximise information density while maintaining clarity.
-
 ## Core Principle
 Prefer:
 1. Symbol
 2. Number
 3. Abbreviation
 4. Word
-
 Example:
 ```text
 RVOL >5x
 ```
-
 Not:
-
 ```text
 Relative Volume is greater than five times.
 ```
@@ -35,9 +29,7 @@ Relative Volume is greater than five times.
 - Keep notation consistent across the vault.
 - Do not invent abbreviations without documenting them here.
 - If ambiguity exists, write the full term.
-
 ## Standard Symbols
-
 | Meaning | Standard | Example |
 |---------|:--------:|---------|
 | Greater than | `>` | RVOL >5x |
@@ -57,9 +49,7 @@ Relative Volume is greater than five times.
 | Multiply | `x` | RVOL >5x |
 | Percentage | `%` | Gap >20% |
 | And | `&` | Price & Vol |
-
 ## Time Notation
-
 | Standard | Meaning |
 |----------|---------|
 | `1m` | 1-minute |
@@ -71,18 +61,14 @@ Relative Volume is greater than five times.
 | `W` | Weekly |
 | `M` | Monthly |
 | `YTD` | Year-to-Date |
-
 Examples:
-
 ```text
 2m PB
 5m Trend
 D Support
 YTD H
 ```
-
 ## Price & Volume
-
 | Standard | Meaning |
 |----------|---------|
 | H | High |
@@ -93,17 +79,13 @@ YTD H
 | RVOL | Relative Volume |
 | ADV | Average Daily Volume |
 | ΔVol | Volume Change |
-
 Examples:
-
 ```text
 RVOL >5x
 ΔVol +40%
 Vol ≈ Prev Vol
 ```
-
 ## Trading Abbreviations
-
 | Standard | Meaning |
 |----------|---------|
 | PM | Premarket |
@@ -117,9 +99,7 @@ Vol ≈ Prev Vol
 | PDL | Previous Day Low |
 | YTD H | Year-to-Date High |
 | YTD L | Year-to-Date Low |
-
 ## Execution Abbreviations
-
 | Standard | Meaning |
 |----------|---------|
 | PB | Pullback |
@@ -134,11 +114,8 @@ Vol ≈ Prev Vol
 | RR | Risk / Reward |
 | Pos | Position |
 | Mom | Momentum |
-
 ## Compression Rules
-
 Prefer:
-
 ```text
 RVOL >5x
 Gap >20%
@@ -147,9 +124,7 @@ Price ≈ VWAP
 Reject @ PDH
 ΔVol +30%
 ```
-
 Instead of:
-
 ```text
 Relative volume is greater than five times.
 The gap is larger than twenty percent.
@@ -158,11 +133,8 @@ The price is approximately equal to VWAP.
 The stock rejected the previous day's high.
 Volume increased by thirty percent.
 ```
-
 ## Workflow Examples
-
 Preferred:
-
 ```text
 Multi-D ↑
 PM BO Fail
@@ -174,23 +146,20 @@ SL = Prev Swing
 PT1 = 2R
 Trail = 2m Low
 ```
-
 ## Avoid
 - Personal abbreviations.
 - Multiple abbreviations for the same concept.
 - Long prose when notation is sufficient.
 - Mixing full terms and abbreviations inconsistently.
 - Symbols that are not defined in this document.
-
 ## Maintenance
 When introducing new notation:
 - Verify it is unambiguous.
 - Add it to this document.
 - Use it consistently throughout the vault.
 - Avoid creating synonyms.
-
 ## Related Documents
 - [[Project Standards]]
 - [[Writing Style Guide]]
-- [[Formatting Guide]]
+- [[Markdown Style Guide]]
 - [[Naming Convention]]

@@ -7,19 +7,15 @@ phase: Phase-1
 tags: [standards, callouts]
 ---
 # Callout Style Guide
-
 ## Purpose
 Defines the approved Obsidian callouts for the TradingOS. Callouts should highlight important information, not decorate documents.
-
 ## General Rules
 - Use Obsidian's native callouts only.
 - Use the smallest appropriate callout.
 - Keep callout content concise.
 - Avoid nesting callouts.
 - Do not use consecutive callouts when a normal heading is sufficient.
-
 ## Approved Callouts
-
 ### Note
 Use for supplementary information.
 ```markdown
@@ -74,23 +70,7 @@ Use only for unfinished documentation.
 > [!todo]
 > Insert example chart.
 ```
-
 Remove all `todo` callouts before a document reaches **Active** status.
-
-## Usage Guidelines
-
-| Callout   | Purpose                |
-| --------- | ---------------------- |
-| Note      | Additional information |
-| Tip       | Recommendation         |
-| Important | Critical rule          |
-| Warning   | Prevent mistakes       |
-| Danger    | High-risk violation    |
-| Success   | Completed outcome      |
-| Failure   | Failed condition       |
-| Question  | Clarification required |
-| Todo      | Pending work           |
-
 ## When to Use
 Use callouts for:
 - Critical rules.
@@ -98,7 +78,6 @@ Use callouts for:
 - Warnings.
 - Temporary documentation tasks.
 - Small reference notes.
-
 ## When Not to Use
 Do not use callouts for:
 - Normal explanations.
@@ -106,14 +85,12 @@ Do not use callouts for:
 - Long paragraphs.
 - Lists that belong under headings.
 - Decorative formatting.
-
 ## Formatting Rules
 - One topic per callout.
 - Keep content under five lines where practical.
 - Do not place tables inside callouts.
 - Avoid multiple consecutive callouts.
 - Prefer headings when the content is substantial.
-
 ## Priority
 If multiple callouts could apply, use the highest priority:
 1. Danger
@@ -125,23 +102,20 @@ If multiple callouts could apply, use the highest priority:
 7. Note
 8. Question
 9. Todo
-
 ## Examples
 Good:
 ```markdown
 > [!warning]
 > Do not duplicate rules across documents.
 ```
-
 Poor:
 ```markdown
 > [!note]
 > This section explains everything about risk management...
 > (multiple paragraphs)
 ```
-
 ## Related Documents
 - [[Project Standards]]
-- [[Formatting Guide]]
+- [[Markdown Style Guide]]
 - [[Writing Style Guide]]
-- [[Templates overview]]
+- [[Templates Overview]]

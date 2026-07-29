@@ -9,18 +9,14 @@ tags:
   - architecture
 ---
 # TradingOS
-
 ## Purpose
-
 - Centralise trading knowledge.
 - Standardise trading workflows.
 - Reduce decision fatigue.
 - Separate permanent knowledge from daily operations.
 - Maintain a single source of truth.
 - Support continuous system improvement.
-
 ## Core Principles
-
 - One concept per document.
 - One source of truth.
 - Link instead of duplicate.
@@ -29,9 +25,7 @@ tags:
 - Permanent knowledge changes slowly.
 - Journals record observations, not rules.
 - lean operating system (~40 files) rather than comprehensive documentation
-
 ## Vault Structure
-
 ```text
 TradingOS/
 ├── Home.md
@@ -46,9 +40,7 @@ TradingOS/
 ├── Assets/
 └── Archive/
 ```
-
 ## Trading Workflow
-
 ```text
 Preparation
     ↓
@@ -66,53 +58,39 @@ Journal
     ↓
 System Improvement
 ```
-
 ## Modules
-
 ### Standards
 Permanent documentation governing the vault.
 - [[Project Standards]]
 - [[YAML Standard]]
-- [[Formatting Guide]]
+- [[Markdown Style Guide]]
 - [[Naming Convention]]
-
 ### Rulebook
 Authoritative trading knowledge.
 - [[Master Trading System Rulebook]]
 - [[Combined Setup File]]
 - [[Trading Coach Specification]]
 - [[Trade Scoring Rubric]]
-
 ### Setups
 One document per trading setup containing context, requirements, triggers, risk, exits, and examples.
-
 ### Playbooks
 Operational procedures such as market preparation, execution routines, and replay workflows.
-
 ### Reviews
 Completed trade, weekly, and monthly performance reviews.
-
 ### Journal
 Operational observations and reflections. Journals never modify permanent documentation.
-
 ### Templates
 Reusable document structures for recurring workflows.
-
 ## Navigation
-
 TradingOS is designed around Obsidian-native navigation:
 - Wikilinks
 - Backlinks
 - Search
 - Graph View
 - [[Home]]
-
 Folders exist only for organisation.
-
 ## Source of Truth
-
 Documentation follows this priority:
-
 1. Master Trading System Rulebook
 2. Combined Setup File
 3. Trading Coach Specification
@@ -121,31 +99,23 @@ Documentation follows this priority:
 6. Standards
 7. Templates
 8. Journals
-
 Higher-priority documents always override lower-priority documents.
-
 ## Getting Started
-
 1. Open [[Home]].
 2. Complete pre-market preparation.
 3. Execute only documented setups.
 4. Record every trade.
 5. Complete replay and review.
 6. Update the journal.
-
 ## Requirements
-
 Recommended Obsidian features:
 - Wikilinks
 - Backlinks
 - Properties (YAML)
 - Templates
 - Graph View
-
 No third-party plugins are required.
-
 ## Design Goals
-
 TradingOS is designed to be:
 - Obsidian-native
 - Modular
@@ -153,9 +123,7 @@ TradingOS is designed to be:
 - Searchable
 - Scalable
 - Maintainable
-
 ## Related Documents
-
 - [[Home]]
 - [[Vault Guide]]
 - [[Project Standards]]

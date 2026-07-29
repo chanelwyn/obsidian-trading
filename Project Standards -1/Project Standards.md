@@ -2,15 +2,13 @@
 title: Project Standards
 type: standard
 status: active
-version: 1
+version: 1.0
 phase: Phase-1
 tags:
   - standards
   - project
 ---
-
 # Project Standards
-
 ## Purpose
 This document defines the documentation standards for the TradingOS Obsidian Vault. Every future document must comply with these standards.
 ## Source of Truth
@@ -23,7 +21,6 @@ If documents conflict, follow this order:
 6. Project Standards
 7. Templates
 8. Journals and Notes
-
 Higher-priority documents always override lower-priority documents.
 ## Documentation Principles
 - One document = one responsibility.
@@ -34,7 +31,6 @@ Higher-priority documents always override lower-priority documents.
 - Unknown information remains unknown.
 - Rules are deterministic whenever possible.
 ## Document Types
-
 ### Permanent
 Defines the TradingOS.
 - Standards
@@ -56,7 +52,6 @@ Evaluates execution.
 - Performance Reports
 ### Archive
 Historical material that no longer affects the current system.
-
 ## Vault Philosophy
 The vault is documentation, not a notebook.
 - Each file represents one concept.
@@ -65,15 +60,7 @@ The vault is documentation, not a notebook.
 - Avoid duplicated information.
 - Prefer one document per workflow or concept—not one document per heading.
 ## Standard Document Structure
-Unless a dedicated template exists, permanent documents should follow:
-1. YAML
-2. Purpose
-3. Scope
-4. Main Content
-5. Rules
-6. References
-7. Related Documents
-
+Reference [[Templates Overview]]
 ## Heading Hierarchy
 ```text
 # Document Title
@@ -82,7 +69,6 @@ Unless a dedicated template exists, permanent documents should follow:
 #### Detail
 ```
 Do not skip heading levels.
-
 ## Naming Rules
 - Use descriptive names.
 - Avoid abbreviations unless universally recognised.
@@ -101,39 +87,24 @@ Do not skip heading levels.
 - Do not duplicate rules from another file.
 - Link to the authoritative document instead.
 - Broken links should not exist.
-## Status Values
-
-| Status     | Meaning           |
-| ---------- | ----------------- |
-| Draft      | In development    |
-| Active     | Official standard |
-| Review     | Pending revision  |
-| Deprecated | Superseded        |
-| Archived   | Historical only   |
-
-Only **Active** documents define the current TradingOS.
-
 ## Change Policy
 Permanent documents are updated only when:
 - a trading rule changes
 - documentation is restructured
 - contradictions are resolved
 - clarification improves precision
-
 Trading results alone do not change permanent documentation.
-
 ## Lean Documentation Philosophy
-- target note size: 70-100lines
-- one workflow/one concpet
+- target note size: 70-100 lines
+- one workflow/one concept
 - avoid micro-notes
 - merge sequential workflows
 - minimise maintenance
 - single source of truth
-
 ## Future Compatibility
 Every future phase of the TradingOS must follow these standards. Any new documentation standard should extend this system rather than replace it.
 ## Related Documents
-- [[Formatting Guide]]
+- [[Markdown Style Guide]]
 - [[YAML Standard]]
 - [[Naming Convention]]
 - [[Folder Convention]]
@@ -141,4 +112,4 @@ Every future phase of the TradingOS must follow these standards. Any new documen
 - [[Internal Linking Rules]]
 - [[Callout Style Guide]]
 - [[Writing Style Guide]]
-- [[Templates overview]]
+- [[Templates Overview]]
