@@ -56,6 +56,11 @@ Prefer:
 - Short sentences.
 - Specific wording.
 - Consistent terminology.
+- Bullets over paragraphs
+- operational writing
+- remove filler
+- one-screen as first
+- every heading must add value
 
 Avoid:
 - Ambiguous language.

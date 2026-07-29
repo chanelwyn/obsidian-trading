@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Standards -1/Project Std.md",
+                "file": "Project Standards -1/YAML Std.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Std"
+              "title": "YAML Std"
             }
           }
         ],
@@ -226,13 +226,23 @@
   },
   "active": "97ef5904976721e1",
   "lastOpenFiles": [
-    "Vault Guide.md",
-    "Home.md",
-    "README.md",
+    "Project Standards -1/Writing Style Guide.md",
+    "Project Standards -1/Templates overview.md",
+    "Project Standards -1/Tag Convention.md",
+    "Project Standards -1/Project Standard.md",
+    "Project Standards -1/Notation Standard.md",
+    "Project Standards -1/Naming Convention.md",
+    "Project Standards -1/Internal Linking Rules.md",
+    "Project Standards -1/Formatting Guide.md",
+    "Project Standards -1/Folder Convention.md",
     "Project Standards -1/Callout Style Guide.md",
+    "Vault Guide.md",
+    "Project Standards -1.zip",
+    "README.md",
+    "Project Standards -1/YAML Std.md",
+    "Home.md",
     "Untitled",
     "New Text Document.txt",
-    "Project Standards -1/Folder Convention.md",
     "origin"
   ]
 }

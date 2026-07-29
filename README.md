@@ -28,6 +28,7 @@ tags:
 - Templates standardise recurring work.
 - Permanent knowledge changes slowly.
 - Journals record observations, not rules.
+- lean operating system (~40 files) rather than comprehensive documentation
 
 ## Vault Structure
 

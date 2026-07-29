@@ -19,6 +19,8 @@ Defines the folder structure for the TradingOS. Folders organise documents by ca
 - Do not duplicate documents across folders.
 - Move documents instead of copying them.
 - Use folders for organisation, not relationships.
+- Folder organise content, not granularity
+- Workflow documents > many tiny notes
 
 ## Folder Naming
 Rules:

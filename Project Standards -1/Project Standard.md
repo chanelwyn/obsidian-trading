@@ -122,6 +122,14 @@ Permanent documents are updated only when:
 
 Trading results alone do not change permanent documentation.
 
+## Lean Documentation Philosophy
+- target note size: 70-100lines
+- one workflow/one concpet
+- avoid micro-notes
+- merge sequential workflows
+- minimise maintenance
+- single source of truth
+
 ## Future Compatibility
 Every future phase of the TradingOS must follow these standards. Any new documentation standard should extend this system rather than replace it.
 ## Related Documents

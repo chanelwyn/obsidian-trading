@@ -18,6 +18,7 @@ Defines the wikilinking standard for the TradingOS. Internal links are the prima
 - Do not duplicate information.
 - Every permanent document should link to related documents.
 - Broken links are not permitted.
+- Prefer section links within the same document before creating a new note
 
 ## Standard Link
 

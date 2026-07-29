@@ -8,7 +8,6 @@ tags:
   - standards
   - markdown
 ---
-
 # Markdown Style Guide
 
 ## Purpose
@@ -20,6 +19,11 @@ Defines the Markdown formatting standard for every document in the TradingOS.
 - Keep formatting clean and consistent.
 - Prefer simple structure over visual decoration.
 - Keep documents compact; avoid unnecessary whitespace.
+- Limit Heading depth (≤4)
+- Max 1-2 callouts
+- prefer checklist
+- avoid decorative sections
+- compact spacing
 
 ## Headings
 Rules:
