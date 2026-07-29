@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault Guide.md",
+                "file": "Project Standards -1/Project Std.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vault Guide"
+              "title": "Project Std"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "88619b01a5bdb465",
@@ -224,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "040dd58ee7efd665",
+  "active": "97ef5904976721e1",
   "lastOpenFiles": [
-    "Home.md",
     "Vault Guide.md",
+    "Home.md",
     "README.md",
     "Project Standards -1/Callout Style Guide.md",
     "Untitled",

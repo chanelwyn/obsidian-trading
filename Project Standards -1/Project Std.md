@@ -61,9 +61,9 @@ Historical material that no longer affects the current system.
 The vault is documentation, not a notebook.
 - Each file represents one concept.
 - Folders organise categories.
-- Wikilinks are the primary navigation.
+- Wiki links are the primary navigation.
 - Avoid duplicated information.
-- Prefer many small documents over one large document.
+- Prefer one document per workflow or concept—not one document per heading.
 ## Standard Document Structure
 Unless a dedicated template exists, permanent documents should follow:
 1. YAML
