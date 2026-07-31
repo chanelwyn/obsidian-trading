@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1b43611a1f12f51",
+            "id": "3e01e8e6698a3f9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "02 Setup Card/Trapped Gap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Trapped Gap"
+            }
+          },
+          {
+            "id": "a4058cd8ee0f5fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Replay/Practice Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice Roadmap"
+            }
+          },
+          {
+            "id": "f58b3b60fc3fdfd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Replay/RLAY 2024-09-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RLAY 2024-09-11"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,8 +210,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1b43611a1f12f51",
+  "active": "040dd58ee7efd665",
   "lastOpenFiles": [
+    "03 Replay/Practice Roadmap.md",
+    "03 Replay/RLAY 2024-09-11.md",
+    "02 Setup Card/Multi-Day Continuation.md",
+    "03 Replay/RLAY 2024-09-11.md",
+    "03 Replay",
+    "02 Setup Card/Trapped Gap.md",
+    "02 Setup Card/Opening Drive.md",
+    "02 Setup Card/Offering Price Anchor.md",
+    "02 Setup Card/Daily Bar Turn.md",
+    "02 Setup Card/Capitulation Reversal Long.md",
+    "02 Setup Card/Breakout Long.md",
+    "02 Setup Card/Bouncy Ball Short.md",
+    "README.md",
+    "01 Live Trading/Review & Improvement.md",
+    "02 Setup Card",
+    "01 Live Trading/Trade Execution.md",
+    "Position Sizing.md",
+    "01 Live Trading/Daily Operating System.md",
+    "Home.md",
+    "01 Live Trading",
+    "obsidian-trading.zip",
     "Project Standards -1/Project Standards.md",
     "Project Standards -1/Templates Overview.md",
     "Project Standards -1/Writing Style Guide.md",
@@ -192,32 +242,11 @@
     "Project Standards -1/Folder Convention.md",
     "Project Standards -1/Markdown Style Guide.md",
     "Project Standards -1/YAML Standard.md",
-    "Project Standards -1/Naming Convention.md",
-    "Home.md",
-    "README.md",
-    "Vault Guide.md",
-    "Project Standards -1/Notation Standard.md",
-    "Project Standards -1/Claude amend/Internal Linking Rules.md",
-    "Project Standards -1/Claude amend/Folder Convention.md",
-    "Project Standards -1/Claude amend/Callout Style Guide.md",
-    "Project Standards -1/Claude amend/YAML Standard.md",
-    "Project Standards -1/Claude amend/Writing Style Guide.md",
-    "Project Standards -1/Claude amend/Templates Overview.md",
-    "Project Standards -1/Claude amend/Tag Convention.md",
-    "Project Standards -1/Claude amend/Project Standards.md",
-    "Project Standards -1/Claude amend/Naming Convention.md",
-    "Project Standards -1/Claude amend/Markdown Style Guide.md",
     "Project Standards -1/Claude amend",
     "Project Standards -1/New folder",
-    "Callout Style Guide.md",
-    "Project Standards 1.md",
     "Project Standards -1/Project phase -1.zip",
     "Project Standards -1/Callout Style Guide.zip",
     "Project Standards -1/Project Standards -1.zip",
-    "regex-find-replace/styles.css",
-    "regex-find-replace/manifest.json",
-    "regex-find-replace/main.js",
-    "regex-find-replace/data.json",
-    "regex-find-replace"
+    "regex-find-replace/styles.css"
   ]
 }
