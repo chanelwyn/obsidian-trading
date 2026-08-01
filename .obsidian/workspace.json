@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Replay/Practice Roadmap.md",
+                "file": "03 Replay/3 Practice Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Roadmap"
+              "title": "3 Practice Roadmap"
             }
           },
           {
@@ -48,9 +48,51 @@
               "icon": "lucide-file",
               "title": "RLAY 2024-09-11"
             }
+          },
+          {
+            "id": "d7ffed741a4e6b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Replay/TIGR 2024-10-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIGR 2024-10-04"
+            }
+          },
+          {
+            "id": "853e2bd79ba62478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Replay/ASML 2024-10-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASML 2024-10-15"
+            }
+          },
+          {
+            "id": "54bc358567aa88f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Replay/ASML 2024-10-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASML 2024-10-15"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -210,12 +252,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "040dd58ee7efd665",
+  "active": "54bc358567aa88f3",
   "lastOpenFiles": [
-    "03 Replay/Practice Roadmap.md",
+    "03 Replay/KWEB TAL 2024-10-01.md",
     "03 Replay/RLAY 2024-09-11.md",
+    "03 Replay/TIGR 2024-10-04.md",
+    "03 Replay/ASML 2024-10-15.md",
+    "03 Replay/3 Practice Roadmap.md",
     "02 Setup Card/Multi-Day Continuation.md",
-    "03 Replay/RLAY 2024-09-11.md",
     "03 Replay",
     "02 Setup Card/Trapped Gap.md",
     "02 Setup Card/Opening Drive.md",
@@ -240,8 +284,6 @@
     "Project Standards -1/Internal Linking Rules.md",
     "Project Standards -1/Tag Convention.md",
     "Project Standards -1/Folder Convention.md",
-    "Project Standards -1/Markdown Style Guide.md",
-    "Project Standards -1/YAML Standard.md",
     "Project Standards -1/Claude amend",
     "Project Standards -1/New folder",
     "Project Standards -1/Project phase -1.zip",
