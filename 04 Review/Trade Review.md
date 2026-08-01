@@ -176,7 +176,7 @@ Use the [[Trade Review Intake Template]] and [[Trading Coach Specification]] for
 
 ## Escalation Rules
 
-Update [[Improvement Tracker]] when:
+Update [[TICK]] when:
 
 - The same mistake repeats.
 - A rule breach becomes recurring.
@@ -203,6 +203,6 @@ Otherwise, keep the lesson within the individual review.
 - [[Trading Coach Specification]]
 - [[Trade Scoring Rubric]]
 - [[Trade Review Intake Template]]
-- [[Improvement Tracker]]
+- [[TICK]]
 - [[Daily Journal]]
 - [[Performance Dashboard]]

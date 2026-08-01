@@ -92,7 +92,7 @@ Example:
 - Reduced patience after losses.
 - Overtraded slow markets.
 
-Recurring issues should be tracked in [[Improvement Tracker]].
+Recurring issues should be tracked in [[TICK]].
 
 ---
 
@@ -156,7 +156,7 @@ Examples:
 
 Update when required:
 
-- [[Improvement Tracker]]
+- [[TICK]]
 - [[Progress Tracker]]
 - [[Performance Dashboard]]
 
@@ -175,7 +175,7 @@ Update when required:
 
 - [[Trade Review]]
 - [[Daily Journal]]
-- [[Improvement Tracker]]
+- [[TICK]]
 - [[Progress Tracker]]
 - [[Performance Dashboard]]
 - [[Master Trading System Rulebook]]

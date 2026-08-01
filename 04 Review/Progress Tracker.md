@@ -148,6 +148,6 @@ Update:
 
 - [[Daily Journal]]
 - [[Periodic Review]]
-- [[Improvement Tracker]]
+- [[TICK]]
 - [[Performance Dashboard]]
 - [[Combined Setup File]]

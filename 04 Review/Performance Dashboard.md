@@ -82,7 +82,7 @@ Reference [[Trade Review]] for individual evaluations.
 | Psychology | | | |
 | Setup Selection | | | |
 
-Reference [[Improvement Tracker]].
+Reference [[TICK]].
 
 ---
 
@@ -129,7 +129,7 @@ Review regularly:
 - [[Trade Review]]
 - [[Daily Journal]]
 - [[Periodic Review]]
-- [[Improvement Tracker]]
+- [[TICK]]
 - [[Progress Tracker]]
 
 ---
@@ -148,7 +148,7 @@ Review regularly:
 - [[Trade Review]]
 - [[Daily Journal]]
 - [[Periodic Review]]
-- [[Improvement Tracker]]
+- [[TICK]]
 - [[Progress Tracker]]
 - [[Master Trading System Rulebook]]
 - [[Trading Coach Specification]]

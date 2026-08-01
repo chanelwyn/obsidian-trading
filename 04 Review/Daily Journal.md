@@ -134,7 +134,7 @@ Example:
 Update:
 
 - [[Trade Review]] (if pending)
-- [[Improvement Tracker]] (if recurring issue identified)
+- [[TICK]] (if recurring issue identified)
 - [[Progress Tracker]] (if milestone achieved)
 
 ---
@@ -151,6 +151,6 @@ Update:
 ## Related Documents
 
 - [[Trade Review]]
-- [[Improvement Tracker]]
+- [[TICK]]
 - [[Periodic Review]]
 - [[Performance Dashboard]]
