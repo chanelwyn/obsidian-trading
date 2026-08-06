@@ -1,5 +1,5 @@
 ---
-title: "{{date}}"
+title: "{{title}}"
 type: replay-review
 status: active
 setup:
