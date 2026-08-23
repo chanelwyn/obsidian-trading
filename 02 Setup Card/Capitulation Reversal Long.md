@@ -12,40 +12,22 @@ source:
   - Master Trading System Rulebook
   - Combined Setup File
 ---
-# Capitulation Reversal Long
-## Purpose
-Buy an exhaustion reversal after panic selling has largely completed. The objective is to capture the first high-probability mean reversion rather than catch the falling knife.
+### Capitulation Reversal Long
 
----
-## Qualification
-### Market Context
-- Daily chart oversold or extended
-- Selling climax approaching exhaustion
-- High relative volume (≥2x)
-- Major support nearby
-- No fresh bearish catalyst invalidating reversal
-- Market regime supports mean reversion
-### Required Conditions
-- Capitulation volume present (**mandatory**)
-- Price far from EMA/VWAP
-- Selling momentum slowing
-- First higher low or right-side reversal forming
-- Buyers begin absorbing supply
-- Room to EMA/VWAP or next resistance
-### Checklist
-- [ ] Daily oversold
-- [ ] ≥2x RVOL
-- [ ] Support identified
-- [ ] Capitulation confirmed
-- [ ] Right-side reversal forming
-- [ ] Trigger level defined
-- [ ] Risk defined before entry
+| D                  | Mkt                      | Intra-D           |
+| ------------------ | ------------------------ | ----------------- |
+| Overextend         | Sector support reversion | 2* Bar length     |
+| ↑Rvol              |                          | 2* Vol            |
+| Major S/R nearby   |                          | Far from EMA/VWAP |
+| X News → Over-news |                          | Tape breakthru    |
+|                    |                          | 2min bar H/L      |
+
 ---
 ## Execution
 ### Trigger
 - Break > first reversal candle H
 - Higher low confirmed
-- Tape Conf
+- Tape Cfm
 - Buyers lifting offers
 ### Entry
 - Enter only after confirmation.

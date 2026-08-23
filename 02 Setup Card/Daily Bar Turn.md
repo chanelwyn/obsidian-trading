@@ -17,7 +17,7 @@ source:
 # Daily Bar Turn
 ## Purpose
 Short the transition from front-side strength to backside weakness after the higher-timeframe trend has objectively reversed.
-This setup captures the **first high-probability continuation** after the uptrend has broken. The Backside provides the context; subsequent [[Bouncy Ball Short]] setups become the preferred trigger.
+This setup captures the **first high-probability continuation** after the uptrend has broken. The Backside provides the context; subsequent [[Bouncy Ball 2-side]] setups become the preferred trigger.
 
 ---
 ## Qualification
@@ -99,11 +99,11 @@ Exit immediately if:
 > Prior D bar L not breached → Not a Daily Bar Turn.
 - Wait for the trend to objectively change.
 - The first valid short occurs **after** LH + LL confirmation.
-- Once the backside is established, look for [[Bouncy Ball Short]] entries on subsequent pullbacks.
+- Once the backside is established, look for [[Bouncy Ball 2-side]] entries on subsequent pullbacks.
 - This setup prevents repeatedly shorting the strongest part of an uptrend.
 ---
 ## Related Notes
-- [[Bouncy Ball Short]]
+- [[Bouncy Ball 2-side]]
 - [[Combined Setup File]]
 - [[Master Trading System Rulebook]]
 - [[Risk Management]]

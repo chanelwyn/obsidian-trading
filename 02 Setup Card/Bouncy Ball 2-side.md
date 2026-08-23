@@ -12,36 +12,17 @@ source:
   - Master Trading System Rulebook
   - Combined Setup File
 ---
-# Bouncy Ball Short
-## Purpose
-Short a trend continuation after an established backside downtrend. Price bounces into resistance, loses momentum, then resumes the primary trend.
-Best used to join institutional selling rather than anticipate reversals.
+### Bouncy Ball 2-sided
 
----
-## Qualification
-### Market Context
-- Daily bias = bearish
-- Confirmed backside preferred
-- Intraday downtrend established
-- Bearish market regime or weak sector
-- SSR inactive
-- Adequate liquidity & borrow
-### Required Conditions
-- Prior down-leg exists (**mandatory**)
-- PB into resistance (EMA / VWAP / prior support)
-- PB on ↓Vol
-- Clear LH
-- Tight consolidation near resistance
-- Room to next support ≥2R
-### Checklist
-- [ ] Daily bias short
-- [ ] Prior down-leg confirmed
-- [ ] Backside context
-- [ ] PB ↓Vol
-- [ ] LH confirmed
-- [ ] Resistance identified
-- [ ] Trigger level defined
-- [ ] Risk defined before entry
+| D          | Mkt          | Intra-D       |
+| ---------- | ------------ | ------------- |
+| Daily Bias | Sector       | Tight consol. |
+| PB ↓Vol    | SSR Inactive | Premkt consol |
+| LH/ HH     | News         | Vol           |
+| Clear S/ R |              |               |
+| TP Clear   |              |               |
+| SL Clear   |              |               |
+
 ---
 ## Execution
 ### Trigger

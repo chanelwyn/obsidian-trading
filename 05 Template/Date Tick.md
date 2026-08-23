@@ -1,51 +1,31 @@
 ---
-title: "{{title}}"
-type: replay-review
-status: active
+title:
+status: SimTrade PaperTrade LiveTrade
 setup:
-direction:
 grade:
 difficulty:
-tags:
 ---
-# {{ticker}} — {{date}}
-> [!info]
-> **Objective:** Trade this replay as if it were live. Pause before each decision. Record your own analysis before checking the playbook.
----
+## Premkt Analyse:
 
-# Summary
-| Item | Value |
-|------|------|
-| Ticker | |
-| Date | |
-| Setup | |
-| Direction | |
-| Market Regime | |
-| Difficulty | ★☆☆☆☆–★★★★★ |
-| Replay Time | |
-
----
-# Pre-Market Analysis
-## Daily Context
+### D Chart:
 - 
-## Market Context
+### Market Context
 - SPY / QQQ:
 - Sector:
-## Premarket Structure
+### Premarket Structure
 - 
-## Initial Bias
+### Initial Bias
 **Long / Short / Neutral**
 Reason:
 - 
 ---
-# Setup Recognition
-## Claimed Setup
-- [ ]
-## Why?
+## Setup Recognition
+### Claimed Setup
+- 
 - 
 
 ---
-# Entry Planning
+## Entry Planning
 ### Planned Entry
 - 
 ### Trigger

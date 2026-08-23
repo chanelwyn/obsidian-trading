@@ -12,13 +12,18 @@ source:
   - Master Trading System Rulebook
   - Combined Setup File
 ---
-# Opening Drive
-## Purpose
-Trade the initial directional expansion immediately after the market opens when aligned with an A+ daily chart, catalyst and market context.
-The Opening Drive may be executed on either the long or short side. Direction follows the higher-timeframe thesis.
+### Opening Drive
+
+| D          | Mkt          | Intra-D       |
+| ---------- | ------------ | ------------- |
+| Daily Bias | Sector       | Tight consol. |
+| PB ↓Vol    | SSR Inactive | Premkt consol |
+| LH/ HH     | News         | Vol           |
+| Clear S/ R |              |               |
+| TP Clear   |              |               |
+| SL Clear   |              |               |
 
 ---
-## Qualification
 ### Market Context
 - A+ daily chart
 - Clear catalyst or news

@@ -54,7 +54,7 @@ Wait for confirmation instead of anticipating reversals.
 - [[KWEB TAL 2024-10-01]]
 **Related Setups**
 - [[Daily Bar Turn]]
-- [[Bouncy Ball Short]]
+- [[Bouncy Ball 2-side]]
 **Graduate**
 - [ ] Backside confirmed
 - [ ] No front-side short
@@ -104,7 +104,7 @@ Integrate tape with chart structure.
 - *(Add benchmark replay)*
 **Related Setups**
 - [[Opening Drive]]
-- [[Bouncy Ball Short]]
+- [[Bouncy Ball 2-side]]
 **Graduate**
 - [ ] Chart first
 - [ ] Tape confirms
@@ -154,7 +154,7 @@ Maximise R without emotional exits.
 - *(Add benchmark replay)*
 **Related Setups**
 - [[Breakout Long]]
-- [[Bouncy Ball Short]]
+- [[Bouncy Ball 2-side]]
 - [[Daily Bar Turn]]
 **Graduate**
 - [ ] Structural stop used
@@ -187,7 +187,7 @@ Apply the complete TradingOS process consistently.
 - [[Combined Setup File]]
 - [[Replay Workflow]]
 - [[Trade Review Workflow]]
-- [[Bouncy Ball Short]]
+- [[Bouncy Ball 2-side]]
 - [[Capitulation Reversal Long]]
 - [[Opening Drive]]
 - [[Daily Bar Turn]]
