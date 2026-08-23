@@ -21,7 +21,7 @@ Learn to identify valid setups and build correct trade bias.
 **Replays**
 - [[RLAY 2024-09-11]]
 **Related Setups**
-- [[Breakout Long]]
+- [[4 - Breakout Long]]
 **Graduate**
 - [ ] Correct setup identified
 - [ ] Thesis explained
@@ -37,7 +37,7 @@ Recognise healthy continuation structures.
 **Replays**
 - [[TIGR 2024-10-04]]
 **Related Setups**
-- [[Multi-Day Continuation]]
+- [[4 - Multi-Day Continuation]]
 **Graduate**
 - [ ] Trend confirmed
 - [ ] Pullback assessed
@@ -53,8 +53,8 @@ Wait for confirmation instead of anticipating reversals.
 **Replays**
 - [[KWEB TAL 2024-10-01]]
 **Related Setups**
-- [[Daily Bar Turn]]
-- [[Bouncy Ball 2-side]]
+- [[3 - Daily Bar Turn]]
+- [[1 - Bouncy Ball 2-side]]
 **Graduate**
 - [ ] Backside confirmed
 - [ ] No front-side short
@@ -70,7 +70,7 @@ Trade exhaustion instead of catching falling knives.
 **Replays**
 - [[ASML 2024-10-15]]
 **Related Setups**
-- [[Capitulation Reversal Long]]
+- [[7 - Capitulation Reversal Long]]
 **Graduate**
 - [ ] Capitulation recognised
 - [ ] Confirmation waited for
@@ -86,7 +86,7 @@ Execute momentum trades without chasing.
 **Replays**
 - *(Add benchmark replay)*
 **Related Setups**
-- [[Opening Drive]]
+- [[2 - Opening Drive]]
 **Graduate**
 - [ ] Opening bias correct
 - [ ] Trigger recognised
@@ -103,8 +103,8 @@ Integrate tape with chart structure.
 **Replays**
 - *(Add benchmark replay)*
 **Related Setups**
-- [[Opening Drive]]
-- [[Bouncy Ball 2-side]]
+- [[2 - Opening Drive]]
+- [[1 - Bouncy Ball 2-side]]
 **Graduate**
 - [ ] Chart first
 - [ ] Tape confirms
@@ -153,9 +153,9 @@ Maximise R without emotional exits.
 **Replays**
 - *(Add benchmark replay)*
 **Related Setups**
-- [[Breakout Long]]
-- [[Bouncy Ball 2-side]]
-- [[Daily Bar Turn]]
+- [[4 - Breakout Long]]
+- [[1 - Bouncy Ball 2-side]]
+- [[3 - Daily Bar Turn]]
 **Graduate**
 - [ ] Structural stop used
 - [ ] Exit followed playbook
@@ -187,11 +187,11 @@ Apply the complete TradingOS process consistently.
 - [[Combined Setup File]]
 - [[Replay Workflow]]
 - [[Trade Review Workflow]]
-- [[Bouncy Ball 2-side]]
-- [[Capitulation Reversal Long]]
-- [[Opening Drive]]
-- [[Daily Bar Turn]]
-- [[Multi-Day Continuation]]
-- [[Trapped Gap]]
-- [[Offering Price Anchor]]
-- [[Breakout Long]]
+- [[1 - Bouncy Ball 2-side]]
+- [[7 - Capitulation Reversal Long]]
+- [[2 - Opening Drive]]
+- [[3 - Daily Bar Turn]]
+- [[4 - Multi-Day Continuation]]
+- [[6 - Trapped Gap]]
+- [[5 - Offering Price Anchor]]
+- [[4 - Breakout Long]]

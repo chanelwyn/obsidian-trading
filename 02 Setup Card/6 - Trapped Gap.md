@@ -98,11 +98,11 @@ Exit immediately if:
 > A gap alone is **not** a Trapped Gap. Trapped participants and a failed reclaim must both be present.
 - The edge comes from forced liquidation.
 - Wait for trapped buyers to lose control before entering.
-- If the stop cascade completes and capitulation develops, the trade may transition into [[Capitulation Reversal Long]].
+- If the stop cascade completes and capitulation develops, the trade may transition into [[7 - Capitulation Reversal Long]].
 - Order-flow confirmation is more important than candle appearance.
 ---
 ## Related Notes
-- [[Capitulation Reversal Long]]
+- [[7 - Capitulation Reversal Long]]
 - [[Combined Setup File]]
 - [[Master Trading System Rulebook]]
 - [[Risk Management]]

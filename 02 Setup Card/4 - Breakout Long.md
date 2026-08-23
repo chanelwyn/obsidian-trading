@@ -18,7 +18,7 @@ source:
 # Breakout Long
 ## Purpose
 Buy institutional continuation as price breaks through established resistance after orderly accumulation.
-Unlike the [[Opening Drive]], this setup focuses on **holding strength** before expansion rather than the initial opening impulse.
+Unlike the [[2 - Opening Drive]], this setup focuses on **holding strength** before expansion rather than the initial opening impulse.
 
 ---
 ## Qualification
@@ -102,12 +102,12 @@ Exit immediately if:
 > Tight consolidation + ↓Vol + strong ask support = highest-quality breakout.
 - Institutions accumulate before expansion.
 - The best breakouts leave little opportunity to re-enter.
-- [[Multi-Day Continuation]] frequently executes through this setup.
+- [[4 - Multi-Day Continuation]] frequently executes through this setup.
 - Continue managing with the 2m trailing stop while structure remains intact.
 ---
 ## Related Notes
-- [[Opening Drive]]
-- [[Multi-Day Continuation]]
+- [[2 - Opening Drive]]
+- [[4 - Multi-Day Continuation]]
 - [[Combined Setup File]]
 - [[Master Trading System Rulebook]]
 - [[Risk Management]]

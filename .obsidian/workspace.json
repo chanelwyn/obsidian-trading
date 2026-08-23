@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Setup Card/Opening Drive.md",
+                "file": "02 Setup Card/6 - Trapped Gap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opening Drive"
+              "title": "6 - Trapped Gap"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,10 +185,14 @@
   },
   "active": "6753c3105ee2832e",
   "lastOpenFiles": [
-    "02 Setup Card/Capitulation Reversal Long.md",
-    "02 Setup Card/Bouncy Ball 2-side.md",
-    "02 Setup Card/Opening Drive.md",
-    "02 Setup Card/Multi-Day Continuation.md",
+    "02 Setup Card/5 - Offering Price Anchor.md",
+    "02 Setup Card/6 - Trapped Gap.md",
+    "02 Setup Card/3 - Daily Bar Turn.md",
+    "02 Setup Card/4 - Multi-Day Continuation.md",
+    "02 Setup Card/4 - Breakout Long.md",
+    "02 Setup Card/7 - Capitulation Reversal Long.md",
+    "02 Setup Card/2 - Opening Drive.md",
+    "02 Setup Card/1 - Bouncy Ball 2-side.md",
     "Project Standards -1/Vault Guide.md",
     "README.md",
     "Home.md",
@@ -207,10 +211,6 @@
     "01 Live Trading/Review & Improvement.md",
     "01 Live Trading/Trade Execution.md",
     "01 Live Trading/Daily Operating System.md",
-    "03 Replay/VIPS 2024-08-20.md",
-    "Project Standards -1/Notation Standard.md",
-    "Project Standards -1/Folder Convention.md",
-    "03 Replay/VIPS      2024-08-20Untitled.md",
     "03 Replay/03.1 A+ Examples",
     "05 Template",
     "01-04.zip",

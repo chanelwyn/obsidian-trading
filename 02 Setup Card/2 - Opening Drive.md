@@ -13,39 +13,15 @@ source:
   - Combined Setup File
 ---
 ### Opening Drive
+| D               | Mkt          | Intra-D               |
+| --------------- | ------------ | --------------------- |
+| A+ Daily Chart  | Sector combo | Opening momentum      |
+| News            | SPY allign   | PB ↓ Vol              |
+| ↑ RVol          |              | Small price rej. @lvl |
+| Cldar S/R       |              |                       |
+| Defined SL & TP |              |                       |
+| SL Clear        |              |                       |
 
-| D          | Mkt          | Intra-D       |
-| ---------- | ------------ | ------------- |
-| Daily Bias | Sector       | Tight consol. |
-| PB ↓Vol    | SSR Inactive | Premkt consol |
-| LH/ HH     | News         | Vol           |
-| Clear S/ R |              |               |
-| TP Clear   |              |               |
-| SL Clear   |              |               |
-
----
-### Market Context
-- A+ daily chart
-- Clear catalyst or news
-- High RVOL
-- Strong market participation
-- Sector aligned
-- SPY / QQQ support the thesis
-### Required Conditions
-- Opening momentum confirmed
-- Strong directional volume
-- No immediate rejection
-- Clear intraday structure
-- Defined risk
-- Sufficient room to target
-### Checklist
-- [ ] Daily thesis confirmed
-- [ ] Catalyst identified
-- [ ] RVOL elevated
-- [ ] Market & sector aligned
-- [ ] Opening momentum confirmed
-- [ ] Trigger level defined
-- [ ] Stop defined before entry
 ---
 ## Execution
 ### Trigger

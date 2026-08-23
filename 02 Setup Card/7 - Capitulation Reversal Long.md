@@ -13,7 +13,6 @@ source:
   - Combined Setup File
 ---
 ### Capitulation Reversal Long
-
 | D                  | Mkt                      | Intra-D           |
 | ------------------ | ------------------------ | ----------------- |
 | Overextend         | Sector support reversion | 2* Bar length     |

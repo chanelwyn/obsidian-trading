@@ -113,11 +113,11 @@ Exit immediately if:
 - The offering price represents institutional fair value, not just another support level.
 - The short and long are **two separate trades**.
 - Confirmation is required before initiating the long reversal.
-- This setup frequently follows an [[Opening Drive]] after a secondary offering.
+- This setup frequently follows an [[2 - Opening Drive]] after a secondary offering.
 ---
 ## Related Notes
-- [[Opening Drive]]
-- [[Capitulation Reversal Long]]
+- [[2 - Opening Drive]]
+- [[7 - Capitulation Reversal Long]]
 - [[Combined Setup File]]
 - [[Master Trading System Rulebook]]
 - [[Risk Management]]

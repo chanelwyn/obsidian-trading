@@ -13,7 +13,6 @@ source:
   - Combined Setup File
 ---
 ### Bouncy Ball 2-sided
-
 | D          | Mkt          | Intra-D       |
 | ---------- | ------------ | ------------- |
 | Daily Bias | Sector       | Tight consol. |

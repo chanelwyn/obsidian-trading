@@ -14,35 +14,17 @@ source:
   - Master Trading System Rulebook
   - Combined Setup File
 ---
-# Daily Bar Turn
-## Purpose
-Short the transition from front-side strength to backside weakness after the higher-timeframe trend has objectively reversed.
-This setup captures the **first high-probability continuation** after the uptrend has broken. The Backside provides the context; subsequent [[Bouncy Ball 2-side]] setups become the preferred trigger.
+### Daily Bar Turn
+| D                      | Mkt                       | Intra-D                 |
+| ---------------------- | ------------------------- | ----------------------- |
+| Extend trend           | Sector flw turn Direction | Failed Opening strength |
+| **Prior D H/L broken** | SPY / QQQ flw turn        | Premkt consol           |
+| Fail opening strength  | News                      | Vol                     |
+| TP Clear               |                           | Failed re-reach S/R     |
+| SL Clear               |                           |                         |
+| LH/HL cfm turn         |                           |                         |
+| X Major S/R nearby     |                           |                         |
 
----
-## Qualification
-### Market Context
-- Extended daily uptrend
-- Daily weakness developing
-- Prior D bar L broken
-- Failed opening strength
-- Sector weakening
-- Bearish market context preferred
-### Required Conditions
-- Prior D bar L breached (**mandatory**)
-- Front-side trend completed
-- LH + LL confirmed
-- Failed recovery into resistance
-- Room to next D support
-- No major support immediately below
-### Checklist
-- [ ] Prior D bar L broken
-- [ ] Backside confirmed
-- [ ] LH formed
-- [ ] LL confirmed
-- [ ] Recovery failed
-- [ ] Trigger level defined
-- [ ] Risk defined before entry
 ---
 ## Execution
 ### Trigger
@@ -99,11 +81,11 @@ Exit immediately if:
 > Prior D bar L not breached → Not a Daily Bar Turn.
 - Wait for the trend to objectively change.
 - The first valid short occurs **after** LH + LL confirmation.
-- Once the backside is established, look for [[Bouncy Ball 2-side]] entries on subsequent pullbacks.
+- Once the backside is established, look for [[1 - Bouncy Ball 2-side]] entries on subsequent pullbacks.
 - This setup prevents repeatedly shorting the strongest part of an uptrend.
 ---
 ## Related Notes
-- [[Bouncy Ball 2-side]]
+- [[1 - Bouncy Ball 2-side]]
 - [[Combined Setup File]]
 - [[Master Trading System Rulebook]]
 - [[Risk Management]]

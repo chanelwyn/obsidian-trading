@@ -109,10 +109,10 @@ Exit immediately if:
 - Prioritise during strong bull markets.
 - ↓Vol during consolidation is a quality characteristic.
 - Day 3 setups should remain near the Day 1 extreme, not deep inside the prior range.
-- A [[Breakout Long]] often becomes the execution trigger inside this setup.
+- A [[4 - Breakout Long]] often becomes the execution trigger inside this setup.
 ---
 ## Related Notes
-- [[Breakout Long]]
+- [[4 - Breakout Long]]
 - [[Combined Setup File]]
 - [[Master Trading System Rulebook]]
 - [[Risk Management]]
