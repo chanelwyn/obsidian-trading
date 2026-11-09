@@ -14,7 +14,7 @@ source:
   - Master Trading System Rulebook
   - Combined Setup File
 ---
-# Trapped Gap
+chane# Trapped Gap
 ## Purpose
 Short a gap that traps existing long holders. Once key support fails, clustered stop-loss orders create an accelerated downside move.
 This setup exploits order-flow imbalance rather than trend continuation alone. 
