@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Setup Card/6 - Trapped Gap.md",
+                "file": "02 Setup Card/1 - Bouncy Ball 2-side.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - Trapped Gap"
+              "title": "1 - Bouncy Ball 2-side"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "6753c3105ee2832e",
   "lastOpenFiles": [
-    "02 Setup Card/5 - Offering Price Anchor.md",
     "02 Setup Card/6 - Trapped Gap.md",
+    "02 Setup Card/5 - Offering Price Anchor.md",
     "02 Setup Card/3 - Daily Bar Turn.md",
     "02 Setup Card/4 - Multi-Day Continuation.md",
     "02 Setup Card/4 - Breakout Long.md",
